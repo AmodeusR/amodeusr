@@ -1,16 +1,17 @@
-### Hi there 👋
+## Oláa pessoas! Tudo bem? 😁
 
-<!--
-**AmodeusR/amodeusr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![amodeus's GitHub stats](https://github-readme-stats.vercel.app/api?username=amodeusr&locale=pt-br&count_private=true&show_icons=true&title_color=ae8ce2&bg_color=181b21&icon_color=ae8ce2&text_color=fff&custom_title=Minhas+Estatísticas+do+Github+👌&)](https://github.com/amodeusr/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amodeusr&locale=pt-br&layout=compact&langs_count=6&title_color=ae8ce2&bg_color=181b21&icon_color=ae8ce2&text_color=fff)](https://github.com/amodeusr/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![amodeus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amodeusr&locale=pt-br&layout=compact&hide=text,Git%20Config&langs_count=8&title_color=ae8ce2&bg_color=181b21&icon_color=ae8ce2&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amodeusr&repo=Sassy" />
+</a> -->
