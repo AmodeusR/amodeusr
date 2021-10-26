@@ -37,7 +37,7 @@
 
 <br />
 
-[![Amodeus' frequently used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amodeusr&locale=pt-br&layout=compact&langs_count=6&title_color=ae8ce2&text_color=fff&bg_color=181b21&border_color=ae8ce2)](https://github.com/amodeusr)
+[![Amodeus' frequently used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amodeusr&locale=pt-br&layout=compact&langs_count=6&title_color=ae8ce2&text_color=b2b2b2&bg_color=181b21&border_color=ae8ce2)](https://github.com/amodeusr)
 
 ## Aprendendo
 
