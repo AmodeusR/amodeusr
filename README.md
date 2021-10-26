@@ -2,13 +2,13 @@
 ## Oláa pessoas! Tudo bem? 😁
 
 <a href="https://github.com/amodeusr">
-  <img align="center" height="190em" alt="Amodeus' Github stats" alt="" src="https://github-readme-stats.vercel.app/api?username=amodeusr&locale=pt-br&count_private=true&show_icons=true&title_color=ae8ce2&text_color=fff&bg_color=181b21&border_color=ae8ce2&icon_color=ae8ce2&custom_title=Minhas+Estatísticas+do+Github+👌" />
+  <img align="center" height="190em" alt="Amodeus' Github stats" alt="" src="https://github-readme-stats.vercel.app/api?username=amodeusr&locale=pt-br&count_private=true&show_icons=true&title_color=ae8ce2&text_color=b2b2b2&bg_color=181b21&border_color=ae8ce2&icon_color=ae8ce2&custom_title=Minhas+Estatísticas+do+Github+👌" />
 </a>
 
 ​
 
 <a href="https://wakatime.com/@AmodeusR">
-  <img align="center" alt="Amodeus' Wakatime stats" height="185em" alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=amodeusr&locale=pt-br&layout=compact&hide=text,Git%20Config&langs_count=8&title_color=ae8ce2&text_color=fff&bg_color=181b21&border_color=ae8ce2" />
+  <img align="center" alt="Amodeus' Wakatime stats" height="185em" alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=amodeusr&locale=pt-br&layout=compact&hide=text,Git%20Config&langs_count=8&title_color=ae8ce2&text_color=b2b2b2&bg_color=181b21&border_color=ae8ce2" />
 </a>
 
 ​
