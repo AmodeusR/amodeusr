@@ -44,7 +44,8 @@
 
 <div display="inline-block" >
   <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="38px" />
-
+ 
+  <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38px" />
 </div>
 
 ## Quero aprender
