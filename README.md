@@ -45,8 +45,8 @@
 <div display="inline-block" >
   <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="38px" />
  
-  <!-- <img alt="Tailwind.css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38px" />
-</div> -->
+  <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38px" />
+</div>
 
 ## Quero aprender
 
@@ -74,5 +74,7 @@
   <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38px" />
  
   <img alt="Tailwind.css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38px" />
+ 
+  <img alt="Bulma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="38px" />
 
 </div>
