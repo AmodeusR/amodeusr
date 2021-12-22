@@ -43,7 +43,10 @@
 ## Aprendendo
 
 <div display="inline-block" >
+ 
   <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="38px" />
+ 
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" />
  
   <!-- <img alt="Tailwind.css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38px" /> -->
 </div>
@@ -51,7 +54,7 @@
 ## Quero aprender
 
 <div display="inline-block" >
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" />
+  <!-- <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" /> -->
  
   <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="HTML5" width="38px" />
  
