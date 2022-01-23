@@ -8,7 +8,7 @@
 ​
 
 <a href="https://wakatime.com/@AmodeusR">
-  <img align="center" alt="Amodeus' Wakatime stats" height="185em" alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=amodeusr&locale=pt-br&layout=compact&hide=text,Git%20Config&langs_count=8&title_color=ae8ce2&text_color=b2b2b2&bg_color=181b21&border_color=ae8ce2" />
+  <img align="center" alt="Amodeus' Wakatime stats" height="185em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amodeusr&locale=pt-br&layout=compact&hide=text,Git%20Config&langs_count=8&title_color=ae8ce2&text_color=b2b2b2&bg_color=181b21&border_color=ae8ce2" />
 </a>
 
 ​
