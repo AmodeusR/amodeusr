@@ -56,15 +56,14 @@
   <a href="https://reactjs.org/">
     <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" /></a>
  
-  <!-- <img alt="Tailwind.css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38px" /> -->
+  <a href="https://www.typescriptlang.org/">
+    <img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38px" /></a>
+ 
 </div>
 
 ## Quero aprender
 
 <div display="inline-block" >
- 
-  <a href="https://www.typescriptlang.org/">
-    <img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38px" /></a>
  
   <a href="https://nodejs.org/en/">
     <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38px" /></a>
