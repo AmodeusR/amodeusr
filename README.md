@@ -62,23 +62,15 @@
 ## Quero aprender
 
 <div display="inline-block" >
-  <a href="https://vuejs.org/">
-    <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="HTML5" width="38px" /></a>
- 
-  <a href="https://flutter.dev/">
-    <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38px" /></a>
  
   <a href="https://www.typescriptlang.org/">
     <img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38px" /></a>
  
-  <a href="https://www.electronjs.org/">
-    <img alt="Electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="38px" /></a>
+  <a href="https://nodejs.org/en/">
+    <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38px" /></a>
  
-  <a href="https://www.python.org/">
-    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38px" /></a>
- 
-  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
-    <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38px" /></a>
+  <a href="https://nextjs.org/">
+    <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38px" /></a>
  
   <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38px" /></a>
@@ -86,25 +78,34 @@
   <a href="https://www.mongodb.com/">
     <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38px" /></a>
  
-  <a href="https://nodejs.org/en/">
-    <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38px" /></a>
+  <a href="https://nestjs.com/">
+    <img alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="38px" /></a>
+ 
+  <a href="https://flutter.dev/">
+    <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38px" /></a>
+ 
+  <a href="https://www.electronjs.org/">
+    <img alt="Electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="38px" /></a>
+ 
+  <a href="https://vuejs.org/">
+    <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="HTML5" width="38px" /></a>
  
   <a href="https://nuxtjs.org/">
     <img alt="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="38px" /></a>
  
-  <a href="https://nextjs.org/">
-    <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38px" /></a>
- 
   <a href="https://tailwindcss.com/">
     <img alt="Tailwind.css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38px" /></a>
- 
-  <a href="https://bulma.io/">
-    <img alt="Bulma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="38px" /></a>
  
   <a href="https://www.docker.com/">
     <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="38px" /></a>
  
-  <a href="https://nestjs.com/">
-    <img alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="38px" /></a>
-
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38px" /></a>
+ 
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
+    <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38px" /></a>
+ 
+  <a href="https://bulma.io/">
+    <img alt="Bulma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="38px" /></a>
+ 
 </div>
