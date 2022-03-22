@@ -59,6 +59,9 @@
   <a href="https://www.typescriptlang.org/">
     <img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38px" /></a>
  
+  <a href="https://firebase.google.com/">
+    <img alt="Firebase" src="https://rawcdn.githack.com/gist/AmodeusR/c944d4805f4f83a6b4c21bf2d1e20688/raw/9b5e5b8bc526f302f9a8f277b1ee7e0d377ff219/firebase-logo.svg" width="28px" /></a>
+ 
 </div>
 
 ## Quero aprender
