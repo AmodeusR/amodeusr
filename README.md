@@ -68,6 +68,9 @@
 
 <div display="inline-block" >
  
+  <a href="https://redux.js.org/">
+    <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="38px" /></a>
+ 
   <a href="https://nodejs.org/en/">
     <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38px" /></a>
  
