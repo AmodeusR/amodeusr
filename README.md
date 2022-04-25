@@ -22,6 +22,7 @@
 ## Meus conhecimentos
 
 <div display="inline-block" >
+ 
   <a href="https://code.visualstudio.com/">
     <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38px" /></a>
  
@@ -33,6 +34,12 @@
  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/Javascript">
     <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38px" /></a>
+ 
+  <a href="https://reactjs.org/">
+    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" /></a>
+ 
+  <a href="https://sass-lang.com/">
+    <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="38px" /></a>
  
   <a href="https://git-scm.com/">
     <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38px" /></a>
@@ -49,12 +56,6 @@
 ## Aprendendo
 
 <div display="inline-block" >
- 
-  <a href="https://sass-lang.com/">
-    <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="38px" /></a>
- 
-  <a href="https://reactjs.org/">
-    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" /></a>
  
   <a href="https://www.typescriptlang.org/">
     <img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38px" /></a>
@@ -109,8 +110,8 @@
  
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
     <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38px" /></a>
- 
+<!--  
   <a href="https://bulma.io/">
-    <img alt="Bulma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="38px" /></a>
+    <img alt="Bulma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="38px" /></a> -->
  
 </div>
