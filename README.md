@@ -46,6 +46,9 @@
  
   <a href="https://github.com/">
     <img alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="38px" /></a>
+  
+  <a href="https://tailwindcss.com/">
+    <img alt="Tailwind.css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38px" /></a>
 
 </div>
 
@@ -98,9 +101,6 @@
  
   <a href="https://nuxtjs.org/">
     <img alt="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="38px" /></a>
- 
-  <a href="https://tailwindcss.com/">
-    <img alt="Tailwind.css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38px" /></a>
  
   <a href="https://www.docker.com/">
     <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="38px" /></a>
