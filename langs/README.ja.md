@@ -7,7 +7,7 @@
    • 
   <a href="./README.en.md">English</a>
 </div>
-
+ 
 <div align="center">
 <a href="https://github.com/amodeusr">
   <img width="48.5%" height="195px" alt="Amodeus' Github stats" alt="" src="https://github-readme-stats.vercel.app/api?username=amodeusr&locale=ja&count_private=true&show_icons=true&title_color=f52559&text_color=b2b2b2&bg_color=1e2025&border_color=f52559&icon_color=f52559&custom_title=私のGithubの統計" /></a>
