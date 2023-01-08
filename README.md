@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-file MD009 MD041 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=52&duration=3200&pause=1000&color=F52559&center=true&vCenter=true&width=1000&height=52&lines=Ol%C3%A1+pessoas!+Como+vai%3F;Hello+everyone!+How's+it+going%3F;%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E3%80%81%E7%9A%86%E3%81%95%E3%82%93%EF%BC%81%E3%81%8A%E5%85%83%E6%B0%97%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=52&duration=3200&pause=1000&color=F52559&center=true&vCenter=true&width=1000&height=82&lines=Ol%C3%A1+pessoas!+Como+vai%3F;Hello+everyone!+How's+it+going%3F;%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E3%80%81%E7%9A%86%E3%81%95%E3%82%93%EF%BC%81%E3%81%8A%E5%85%83%E6%B0%97%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="./langs/README.en.md">English</a>
