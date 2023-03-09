@@ -73,6 +73,9 @@ Estás nessa jornada também? Que tal irmos nessa jornada juntos? Segue aí! o/
  
   <a href="https://redux.js.org/">
     <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="38px" /></a>
+ 
+  <a href="https://redux.js.org/">
+    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38px" /></a>
 
 </div>
 
@@ -86,8 +89,8 @@ Estás nessa jornada também? Que tal irmos nessa jornada juntos? Segue aí! o/
   <a href="https://nextjs.org/">
     <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38px" /></a>
  
-  <a href="https://www.mysql.com/">
-    <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38px" /></a>
+  <a href="https://www.postgresql.org/">
+    <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="38px" /></a>
  
   <a href="https://www.mongodb.com/">
     <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38px" /></a>
