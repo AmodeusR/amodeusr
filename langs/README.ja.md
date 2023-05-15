@@ -38,6 +38,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript">
     <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38px" /></a>
  
+  <a href="https://www.typescriptlang.org/">
+    <img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38px" /></a>
+ 
   <a href="https://reactjs.org/">
     <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" /></a>
  
@@ -66,12 +69,14 @@
 
 <div display="inline-block" >
  
-  <a href="https://www.typescriptlang.org/">
-    <img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38px" /></a>
- 
   <a href="https://redux.js.org/">
     <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="38px" /></a>
-
+ 
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38px" /></a>
+ 
+  <a href="https://nextjs.org/">
+    <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38px" /></a>
 </div>
 
 ## 勉強したい技術
@@ -80,9 +85,6 @@
  
   <a href="https://nodejs.org/en/">
     <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38px" /></a>
- 
-  <a href="https://nextjs.org/">
-    <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38px" /></a>
  
   <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38px" /></a>
@@ -107,9 +109,6 @@
  
   <a href="https://www.docker.com/">
     <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="38px" /></a>
- 
-  <a href="https://www.python.org/">
-    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38px" /></a>
  
   <a href="https://docs.microsoft.com/ja-jp/dotnet/csharp/tour-of-csharp/">
     <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38px" /></a>
