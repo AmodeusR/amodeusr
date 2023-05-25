@@ -79,6 +79,13 @@ Are you also in this journey? What about going together? Follow me up! o/
  
   <a href="https://nextjs.org/">
     <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38px" /></a>
+ 
+  <a href="https://playwright.dev/">
+    <img alt="Playwright" src="../logos/playwright.svg" width="46px" /></a>
+ 
+  <a href="https://scrapy.org/">
+    <img alt="Scrapy" src="../logos/scrapy.png" width="98px" /></a>
+ 
 
 </div>
 
