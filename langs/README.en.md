@@ -86,7 +86,6 @@ Are you also in this journey? What about going together? Follow me up! o/
   <a href="https://scrapy.org/">
     <img alt="Scrapy" src="../logos/scrapy.png" width="98px" /></a>
  
-
 </div>
 
 ## Want to learn
