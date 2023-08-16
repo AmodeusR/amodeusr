@@ -18,11 +18,11 @@
 
 ## About me
 
-Hey! I'm Ricardo, but generally I'm referred as Amodeus. Since very young, I've always been fascinated by games, how fun, challenging and even beautiful at times, with their visuals and music. This ended up taking me to inevitable paths, like music, art and, naturally, **programming**.
+Hey! I'm Ricardo, but generally I'm referred to as Amodeus. Since I was very young, I've always been fascinated by games and how fun, challenging and even beautiful they are at times with their stories, visuals and music. This ended up taking me down inevitable paths like music, art and, naturally, **programming**.
 
-The last one is what brought me here, and right now I'm in this journey – assiduous, by the way – of learning so I can become capable of doing what I love each day batter than the past :D
+The last one is what brought me here, and right now I'm on this journey – assiduous, by the way – of learning so I can become capable of doing what I love each day better than in the past 😜
 
-Are you also in this journey? What about going together? Follow me up! o/
+Are you also on this journey? What about going together? Follow me! o/
 
 ## My Knowledge
 
