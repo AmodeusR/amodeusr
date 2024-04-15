@@ -46,6 +46,9 @@ Estás nessa jornada também? Que tal irmos nessa jornada juntos? Segue aí! o/
   <a href="https://reactjs.org/">
     <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" /></a>
  
+  <a href="https://nextjs.org/">
+    <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38px" /></a>
+ 
   <a href="https://sass-lang.com/">
     <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="38px" /></a>
  
@@ -56,11 +59,14 @@ Estás nessa jornada também? Que tal irmos nessa jornada juntos? Segue aí! o/
     <img alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="38px" /></a>
   
   <a href="https://tailwindcss.com/">
-    <img alt="Tailwind.css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38px" /></a>
+    <img alt="Tailwind.css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="38px" /></a>
  
   <a href="https://firebase.google.com/">
     <img alt="Firebase" src="https://rawcdn.githack.com/gist/AmodeusR/c944d4805f4f83a6b4c21bf2d1e20688/raw/9b5e5b8bc526f302f9a8f277b1ee7e0d377ff219/firebase-logo.svg" width="28px" /></a>
-
+ 
+  <a href="https://redux.js.org/">
+    <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="38px" /></a>
+ 
 </div>
 
 <br />
@@ -72,19 +78,16 @@ Estás nessa jornada também? Que tal irmos nessa jornada juntos? Segue aí! o/
 <div display="inline-block" >
  
   <a href="https://redux.js.org/">
-    <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="38px" /></a>
- 
-  <a href="https://redux.js.org/">
     <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38px" /></a>
- 
-  <a href="https://nextjs.org/">
-    <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38px" /></a>
  
   <a href="https://playwright.dev/">
     <img alt="Playwright" src="./logos/playwright.svg" width="46px" /></a>
  
-  <a href="https://scrapy.org/">
+  <!-- <a href="https://scrapy.org/">
     <img alt="Scrapy" src="./logos/scrapy.png" width="98px" /></a>
+  -->
+  <a href="https://www.postgresql.org/">
+    <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="38px" /></a>
  
 </div>
 
@@ -95,14 +98,8 @@ Estás nessa jornada também? Que tal irmos nessa jornada juntos? Segue aí! o/
   <a href="https://nodejs.org/en/">
     <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38px" /></a>
  
-  <a href="https://www.postgresql.org/">
-    <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="38px" /></a>
- 
-  <a href="https://www.mongodb.com/">
-    <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38px" /></a>
- 
   <a href="https://nestjs.com/">
-    <img alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="38px" /></a>
+    <img alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="38px" /></a>
  
   <a href="https://flutter.dev/">
     <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38px" /></a>
