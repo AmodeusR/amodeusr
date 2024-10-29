@@ -85,8 +85,6 @@ Are you also on this journey? What about going together? Follow me! o/
   <a href="https://www.postgresql.org/">
     <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="38px" /></a>
  
-  <a href="https://www.docker.com/">
-    <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="38px" /></a>
  
   <!-- <a href="https://scrapy.org/">
     <img alt="Scrapy" src="../logos/scrapy.png" width="98px" /></a>
@@ -117,5 +115,8 @@ Are you also on this journey? What about going together? Follow me! o/
  
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
     <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38px" /></a>
+ 
+  <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="38px" /></a>
  
 </div>

@@ -89,8 +89,6 @@ Estás nessa jornada também? Que tal irmos nessa jornada juntos? Segue aí! o/
   <a href="https://www.postgresql.org/">
     <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="38px" /></a>
  
-  <a href="https://www.docker.com/">
-    <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="38px" /></a>
  
 </div>
 
@@ -118,5 +116,8 @@ Estás nessa jornada também? Que tal irmos nessa jornada juntos? Segue aí! o/
  
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/">
     <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38px" /></a>
+ 
+  <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="38px" /></a>
  
 </div>
