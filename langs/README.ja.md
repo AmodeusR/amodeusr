@@ -84,13 +84,15 @@
   <a href="https://www.postgresql.org/">
     <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="38px" /></a>
  
+  <a href="https://reactnative.dev/">
+    <img alt="React Native" src="../logos/react-native.svg" width="52px" /></a>
  
   <!-- <a href="https://scrapy.org/">
     <img alt="Scrapy" src="../logos/scrapy.png" width="98px" /></a>
   -->
 </div>
 
-## 勉強したい技術
+## 勉強しようと思っている技術
 
 <div display="inline-block" >
  

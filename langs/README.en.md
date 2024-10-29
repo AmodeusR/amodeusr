@@ -85,6 +85,8 @@ Are you also on this journey? What about going together? Follow me! o/
   <a href="https://www.postgresql.org/">
     <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="38px" /></a>
  
+  <a href="https://reactnative.dev/">
+    <img alt="React Native" src="../logos/react-native.svg" width="52px" /></a>
  
   <!-- <a href="https://scrapy.org/">
     <img alt="Scrapy" src="../logos/scrapy.png" width="98px" /></a>
