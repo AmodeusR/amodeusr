@@ -100,9 +100,6 @@
   <a href="https://nestjs.com/">
     <img alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="38px" /></a>
  
-  <a href="https://flutter.dev/">
-    <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38px" /></a>
- 
   <a href="https://www.electronjs.org/">
     <img alt="Electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="38px" /></a>
  
