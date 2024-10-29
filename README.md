@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Oláa! Eu me chamo Ricardo, mas geralmente me identifico pela alcunha Amodeus. Desde muito novo, sempre fui fascinado por jogos, como eram divertidos, desafiantes e até belos muitas vezes, com suas histórias, visuais e músicas. Isso acabou me levando a caminhos inevitáveis: à música, à arte e, naturalmente, à **programação**.
+Oláa! Meu nome é Ricardo, mas geralmente me conhecem pela alcunha Amodeus. Desde muito novo, sempre fui fascinado por jogos, como eram divertidos, desafiantes e até belos muitas vezes, com suas histórias, visuais e músicas. Isso acabou me levando a caminhos inevitáveis: à música, à arte e, naturalmente, à **programação**.
 
 Este último é o que me trouxe aqui, e agora mesmo estou nesta jornada – assídua, diga-se de passagem – de aprendizado a fim de ser capaz de fazer as coisas que amo cada dia melhor que o anterior 😜
 
