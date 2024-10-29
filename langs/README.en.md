@@ -66,6 +66,10 @@ Are you also on this journey? What about going together? Follow me! o/
  
   <a href="https://redux.js.org/">
     <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="38px" /></a>
+ 
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38px" /></a>
+ 
 </div>
 
 <br />
@@ -75,9 +79,6 @@ Are you also on this journey? What about going together? Follow me! o/
 ## Learning
 
 <div display="inline-block" >
- 
-  <a href="https://www.python.org/">
-    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38px" /></a>
  
   <a href="https://playwright.dev/">
     <img alt="Playwright" src="../logos/playwright.svg" width="46px" /></a>
