@@ -66,6 +66,11 @@ def load_data():
                     "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
                 },
                 {
+                    "href": "https://nodejs.org/en/",
+                    "alt": "NodeJS",
+                    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+                },
+                {
                     "href": "https://reactjs.org/",
                     "alt": "React",
                     "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
@@ -119,12 +124,6 @@ def load_data():
                     "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg",
                 },
                 {
-                    "href": "https://reactnative.dev/",
-                    "alt": "React Native",
-                    "src": "https://raw.githubusercontent.com/AmodeusR/amodeusr/38e81be5cc110502fb91218d046c9f21c263d74d/logos/react-native.svg",
-                    "size": "52px",
-                },
-                {
                     "href": "https://vuejs.org/",
                     "alt": "Vue.js",
                     "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
@@ -132,9 +131,10 @@ def load_data():
             ],
             "willLearn": [
                 {
-                    "href": "https://nodejs.org/en/",
-                    "alt": "NodeJS",
-                    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+                    "href": "https://reactnative.dev/",
+                    "alt": "React Native",
+                    "src": "https://raw.githubusercontent.com/AmodeusR/amodeusr/38e81be5cc110502fb91218d046c9f21c263d74d/logos/react-native.svg",
+                    "size": "52px",
                 },
                 {
                     "href": "https://nestjs.com/",

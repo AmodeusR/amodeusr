@@ -1,0 +1,13 @@
+# Ambiente virtual
+src/.venv/
+
+# Cache do Python
+**/__pycache__/
+*.py[cod]
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.log

@@ -42,6 +42,9 @@ Are you also on this journey? What about going together? Follow me! o/
   <a href="https://www.typescriptlang.org/">
     <img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38px" /></a>
 &nbsp;
+  <a href="https://nodejs.org/en/">
+    <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38px" /></a>
+&nbsp;
   <a href="https://reactjs.org/">
     <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" /></a>
 &nbsp;
@@ -80,9 +83,6 @@ Are you also on this journey? What about going together? Follow me! o/
   <a href="https://www.postgresql.org/">
     <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="38px" /></a>
 &nbsp;
-  <a href="https://reactnative.dev/">
-    <img alt="React Native" src="https://raw.githubusercontent.com/AmodeusR/amodeusr/38e81be5cc110502fb91218d046c9f21c263d74d/logos/react-native.svg" width="52px" /></a>
-&nbsp;
   <a href="https://vuejs.org/">
     <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="38px" /></a>
 </div>
@@ -90,8 +90,8 @@ Are you also on this journey? What about going together? Follow me! o/
 ## Want to Learn
 
 <div display="inline-block">
-  <a href="https://nodejs.org/en/">
-    <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38px" /></a>
+  <a href="https://reactnative.dev/">
+    <img alt="React Native" src="https://raw.githubusercontent.com/AmodeusR/amodeusr/38e81be5cc110502fb91218d046c9f21c263d74d/logos/react-native.svg" width="52px" /></a>
 &nbsp;
   <a href="https://nestjs.com/">
     <img alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="38px" /></a>
