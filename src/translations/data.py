@@ -167,6 +167,12 @@ def load_data():
                     "src": "https://raw.githubusercontent.com/AmodeusR/amodeusr/38e81be5cc110502fb91218d046c9f21c263d74d/logos/playwright.svg",
                     "size": "46px",
                 },
+                {
+                    "href": "https://v2.tauri.app/",
+                    "alt": "Tauri",
+                    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg",
+                    "size": "36px"
+                },
             ],
         },
     }

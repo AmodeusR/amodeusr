@@ -110,4 +110,7 @@ Are you also on this journey? What about going together? Follow me! o/
 &nbsp;
   <a href="https://playwright.dev/">
     <img alt="Playwright" src="https://raw.githubusercontent.com/AmodeusR/amodeusr/38e81be5cc110502fb91218d046c9f21c263d74d/logos/playwright.svg" width="46px" /></a>
+&nbsp;
+  <a href="https://v2.tauri.app/">
+    <img alt="Tauri" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="36px" /></a>
 </div>
