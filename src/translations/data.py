@@ -160,12 +160,13 @@ def load_data():
                     "href": "https://www.docker.com/",
                     "alt": "Docker",
                     "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg",
+                    "size": "42px"
                 },
                 {
                     "href": "https://playwright.dev/",
                     "alt": "Playwright",
                     "src": "https://raw.githubusercontent.com/AmodeusR/amodeusr/38e81be5cc110502fb91218d046c9f21c263d74d/logos/playwright.svg",
-                    "size": "46px",
+                    "size": "48px",
                 },
                 {
                     "href": "https://v2.tauri.app/",
@@ -176,3 +177,5 @@ def load_data():
             ],
         },
     }
+
+# default size: 38px
