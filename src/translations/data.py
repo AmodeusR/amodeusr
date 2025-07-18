@@ -174,6 +174,11 @@ def load_data():
                     "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg",
                     "size": "36px"
                 },
+                {
+                    "href": "https://www.rust-lang.org/",
+                    "alt": "Rust",
+                    "src": "https://raw.githubusercontent.com/AmodeusR/amodeusr/db1995b9fe18b1407d594f4f38e81dc899f5a30d/logos/rust-original.svg",
+                },
             ],
         },
     }

@@ -111,4 +111,7 @@
 &nbsp;
   <a href="https://v2.tauri.app/">
     <img alt="Tauri" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="36px" /></a>
+&nbsp;
+  <a href="https://www.rust-lang.org/">
+    <img alt="Rust" src="https://raw.githubusercontent.com/AmodeusR/amodeusr/db1995b9fe18b1407d594f4f38e81dc899f5a30d/logos/rust-original.svg" width="38px" /></a>
 </div>
