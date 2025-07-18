@@ -159,7 +159,7 @@ def load_data():
                 {
                     "href": "https://www.docker.com/",
                     "alt": "Docker",
-                    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg",
+                    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg",
                     "size": "42px"
                 },
                 {
