@@ -115,4 +115,7 @@ Estás nessa jornada também? Que tal irmos nessa jornada juntos? Segue aí! o/
 &nbsp;
   <a href="https://www.rust-lang.org/">
     <img alt="Rust" src="https://raw.githubusercontent.com/AmodeusR/amodeusr/db1995b9fe18b1407d594f4f38e81dc899f5a30d/logos/rust-original.svg" width="38px" /></a>
+&nbsp;
+  <a href="https://go.dev/">
+    <img alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="38px" /></a>
 </div>

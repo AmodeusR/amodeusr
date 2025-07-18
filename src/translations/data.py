@@ -179,6 +179,11 @@ def load_data():
                     "alt": "Rust",
                     "src": "https://raw.githubusercontent.com/AmodeusR/amodeusr/db1995b9fe18b1407d594f4f38e81dc899f5a30d/logos/rust-original.svg",
                 },
+                {
+                    "href": "https://go.dev/",
+                    "alt": "Go",
+                    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg",
+                },
             ],
         },
     }
