@@ -163,11 +163,23 @@ def load_data():
                     "size": "42px"
                 },
                 {
+                    "href": "https://www.cypress.io/",
+                    "alt": "Cypress",
+                    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg",
+                    # "size": "42px"
+                },
+                {
                     "href": "https://playwright.dev/",
                     "alt": "Playwright",
                     "src": "https://raw.githubusercontent.com/AmodeusR/amodeusr/38e81be5cc110502fb91218d046c9f21c263d74d/logos/playwright.svg",
                     "size": "48px",
                 },
+                # {
+                #     "href": "https://www.selenium.dev/",
+                #     "alt": "Selenium",
+                #     "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg",
+                #     # "size": "42px"
+                # },
                 {
                     "href": "https://v2.tauri.app/",
                     "alt": "Tauri",

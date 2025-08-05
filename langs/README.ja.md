@@ -106,6 +106,9 @@
   <a href="https://www.docker.com/">
     <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42px" /></a>
 &nbsp;
+  <a href="https://www.cypress.io/">
+    <img alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="38px" /></a>
+&nbsp;
   <a href="https://playwright.dev/">
     <img alt="Playwright" src="https://raw.githubusercontent.com/AmodeusR/amodeusr/38e81be5cc110502fb91218d046c9f21c263d74d/logos/playwright.svg" width="48px" /></a>
 &nbsp;
