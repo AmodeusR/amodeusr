@@ -165,8 +165,7 @@ def load_data():
                 {
                     "href": "https://www.cypress.io/",
                     "alt": "Cypress",
-                    "src": "https://raw.githubusercontent.com/AmodeusR/amodeusr/c2d658505a80ced62bf4ff2e21127eb556b82c4d/logos/cypress.svg",
-                    # "size": "42px"
+                    "src": "https://raw.githubusercontent.com/AmodeusR/amodeusr/c2d658505a80ced62bf4ff2e21127eb556b82c4d/logos/cypress.svg"
                 },
                 {
                     "href": "https://playwright.dev/",
