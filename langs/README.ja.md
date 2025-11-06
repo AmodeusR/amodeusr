@@ -69,6 +69,9 @@
 &nbsp;
   <a href="https://www.python.org/">
     <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38px" /></a>
+&nbsp;
+  <a href="https://vuejs.org/">
+    <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="38px" /></a>
 </div>
 
 <br />
@@ -80,9 +83,6 @@
 <div display="inline-block">
   <a href="https://www.postgresql.org/">
     <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="38px" /></a>
-&nbsp;
-  <a href="https://vuejs.org/">
-    <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="38px" /></a>
 </div>
 
 ## 勉強しようと思っている技術

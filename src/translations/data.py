@@ -116,17 +116,17 @@ def load_data():
                     "alt": "Python",
                     "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
                 },
+                {
+                    "href": "https://vuejs.org/",
+                    "alt": "Vue.js",
+                    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+                },
             ],
             "learning": [
                 {
                     "href": "https://www.postgresql.org/",
                     "alt": "PostgreSQL",
                     "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg",
-                },
-                {
-                    "href": "https://vuejs.org/",
-                    "alt": "Vue.js",
-                    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
                 },
             ],
             "willLearn": [
