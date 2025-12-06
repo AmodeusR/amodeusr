@@ -9,9 +9,9 @@
 &nbsp;
 <div align="center">
 <a href="https://github.com/amodeusr">
-  <img width="47%" height="195px" alt="Amodeus' Github stats" alt="" src="https://github-readme-stats.vercel.app/api?username=amodeusr&locale=pt-br&count_private=true&show_icons=true&title_color=f52559&text_color=b2b2b2&bg_color=1e2025&border_color=f52559&icon_color=f52559&custom_title=Minhas+estatísticas+do+Github+👌" /></a>
+  <img width="47%" height="195px" alt="Amodeus' Github stats" alt="" src="https://gstats.buddies-dev.de/api?username=amodeusr&locale=pt-br&count_private=true&show_icons=true&title_color=f52559&text_color=b2b2b2&bg_color=1e2025&border_color=f52559&icon_color=f52559&custom_title=Minhas+estatísticas+do+Github+👌" /></a>
 <a href="https://wakatime.com/@AmodeusR">
-  <img width="51.2%" alt="Amodeus' Wakatime stats" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=amodeusr&locale=pt-br&layout=compact&hide=text,Git%20Config,Other,Image%20%28svg%29,YAML&langs_count=8&title_color=f52559&text_color=b2b2b2&bg_color=1e2025&border_color=f52559" />
+  <img width="51.2%" alt="Amodeus' Wakatime stats" height="195px" src="https://gstats.buddies-dev.de/api/wakatime?username=amodeusr&locale=pt-br&layout=compact&hide=text,Git%20Config,Other,Image%20%28svg%29,YAML&langs_count=8&title_color=f52559&text_color=b2b2b2&bg_color=1e2025&border_color=f52559" />
 </a>
 </div>
 
@@ -77,7 +77,7 @@ Estás nessa jornada também? Que tal irmos nessa jornada juntos? Segue aí! o/
 
 <br />
 
-[![Amodeus' frequently used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amodeusr&locale=pt-br&layout=compact&langs_count=6&title_color=f52559&text_color=b2b2b2&bg_color=1e2025&border_color=f52559)](https://github.com/amodeusr)
+[![Amodeus' frequently used languages](https://gstats.buddies-dev.de/api/top-langs/?username=amodeusr&locale=pt-br&layout=compact&langs_count=6&title_color=f52559&text_color=b2b2b2&bg_color=1e2025&border_color=f52559)](https://github.com/amodeusr)
 
 ## Aprendendo
 
